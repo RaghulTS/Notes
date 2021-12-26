@@ -1,0 +1,20 @@
+1) mkdir = make directory
+2) rmdir = remove directory
+3) cd = move to directory
+4) cd../.. = move back to directory
+5) rmdir /s = remove everything
+6) wmic logicaldisk get name = gets drives names
+7) d: (or) e: = to change disk name
+8) tree = shows the structure of folder
+9) color dir = change color 
+10) attrib /? 
+11) attrib 
+12) del filename = delete a file
+13) type filename = text file 
+14) echo typesomethinghere > that.txt = writes typesomethinghere
+15) echo tsh >> that.txt = appends to that.txt
+16) dir > something.txt
+17) copy okay.txt D:\Raghul = copies the file
+18) xcopy apples bacon /s
+19) move apple bacon 
+20) rename bacon something = renamed to something
